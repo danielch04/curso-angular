@@ -8,7 +8,7 @@ let isLive:boolean = true;          //el PIPE indica que hay as de un tipo de da
 
 hpPoints = 'FULL';
 
-console.log ({
+console.log({
     name,hpPoints, isLive
 });
 
