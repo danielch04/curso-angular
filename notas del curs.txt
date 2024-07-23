@@ -1,0 +1,12 @@
+// conocer como funciona una clase en typescritp es conocer mya el 80 por ciento de Angular
+
+¿ que es typesrcipt? 
+-es un super set de javascript por que le exteinde caracteristicas
+-ofrece tipado estricto y flexible
+-mejora la legibiliad del codigo
+-caracteristicas modernas
+
+ES6 (Egma script 6)
+
+
+
